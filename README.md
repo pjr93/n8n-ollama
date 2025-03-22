@@ -4,6 +4,7 @@
 docker compose up
 ```
 
+It should give a message going to ```localhost:5678``` in the terminal.
 
 # Agent setup
 First, after going through the first time registration, pick the AI agent example.
