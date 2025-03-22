@@ -20,3 +20,8 @@ Set the model to llama2:latest. If you wanted a different model, you need to cha
 
 Try chatting!
 ![step 4](images/step_4.JPG)
+
+# To do
+- https://hub.docker.com/_/redis/
+    - embedding and metadata storage
+    
